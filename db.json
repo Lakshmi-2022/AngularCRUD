@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstname": "Manish",
+      "lastname": "Shukla",
+      "mobile": "454545454",
+      "email": "Manish@gmail.com",
+      "salary": "252525"
+    },
+    {
+      "id": 3,
+      "firstname": "Mrityunjay",
+      "lastname": "Sharma",
+      "mobile": "9879879878",
+      "email": "Mrityunjay@gmail.com",
+      "salary": "25000"
+    },
+    {
+      "id": 4,
+      "firstname": "Anisha",
+      "lastname": "Srivastava",
+      "mobile": "454848689",
+      "email": "Anisha@gmail.com",
+      "salary": "5858585"
+    },
+    {
+      "id": 5,
+      "firstname": "Mrinal",
+      "lastname": "Sharma",
+      "mobile": "7575757575",
+      "email": "Mrinal@gmail.com",
+      "salary": "15000"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
